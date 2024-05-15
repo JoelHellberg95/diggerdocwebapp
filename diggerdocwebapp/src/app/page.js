@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Navigation from "./components/Navigation/navigation";
-import TodoList from "./tasks/create";
+import TodoList from "./tasks/create/create";
 
 export default function Home() {
   return (
