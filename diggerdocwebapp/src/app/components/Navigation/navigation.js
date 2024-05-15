@@ -8,7 +8,7 @@ export default function Navigation() {
         </div>
         <div className="navbar-center">
         <Link href="/"><div className="btn btn-ghost text-xl">Hem</div></Link>
-        <Link href="/tasks"><div className="btn btn-ghost text-xl">Alla Uppdrag</div></Link>
+        <Link href="/tasks/tasks"><div className="btn btn-ghost text-xl">Alla Uppdrag</div></Link>
         <Link href="/tasks/create"><div className="btn btn-ghost text-xl">Skapa Uppdrag</div></Link>
         <Link href="/settings"><div className="btn btn-ghost text-xl">Inställningar</div></Link>
 
